@@ -17,6 +17,7 @@ The graph shows seasonality for the areas.
 ![pyber](https://user-images.githubusercontent.com/67567087/152464280-ffbcf050-b245-41d1-b625-22cb94c710af.png)
 
 ## Summary
+### Business recommendations
 1) Reduce the number of drivers in the Suburban area to allow at least an average of 1 driver per ride. This means reducing the competition and providing more profitable rides per driver. 
 2) Provide deals to promote ridership during the Valentines and Family Day period as ridership is higher during that time for all 3 areas.
 3) Allow a student fare during March Break/Reading week to promote ridership during the holidays for students at home in urban areas. 
